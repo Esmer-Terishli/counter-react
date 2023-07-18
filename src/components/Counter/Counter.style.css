@@ -1,0 +1,28 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  padding: 15px 0;
+  width: 150px;
+  border: none;
+  border-radius: 2px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.btn-success {background-color: 	#198754;}
+.btn-danger {background-color: #DB2D43;}
+p {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.red-zero {color: #DB2D43;}
+.count_color{
+  width: 40%;
+  margin: 100px auto 0;
+  border: 5px solid;
+  border-image: linear-gradient(45deg, purple, orange) 1;
+  padding: 50px 0 100px;
+}
